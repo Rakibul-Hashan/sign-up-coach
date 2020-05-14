@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@200;300;400;600;800;900&display=swap');
+*{margin: 0; padding: 0;}
+body{
+    background-image: url(../images/register-img.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #ffffff73;
+    background-blend-mode: color;
+    font-family: 'Muli', sans-serif;
+}
+header h3{
+    color:white;
+    font-size: 50px;
+    font-weight: 800!important;
+
+}
+
+.sign-up {
+ 
+    background-color: #1e1835;
+    border-radius: 5px;
+    color: rgb(111, 105, 133);
+}
+.sign-up .container{
+padding: 50px !important;
+}
+.sign-title h1 {
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.sign-title p {
+        padding-top: 15px;
+}
+label {}
+.form-group {
+
+}
+.btn-primary {
+    color: #fff;
+    background-color: #ff5028;
+    border-color: #ff5028;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #FF3912;
+    border-color: #bc2507;
+}
+.footer p{}
+.footer a{
+    color: #ff6749;
+    text-decoration: none;
+    background-color: transparent;
+}
+a:hover {
+    color: #eb2700;
+    text-decoration: none;
+}
